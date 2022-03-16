@@ -1,0 +1,16 @@
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.exe
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.deps.json
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.runtimeconfig.json
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.runtimeconfig.dev.json
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.dll
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\bin\Debug\net5.0\Capgemini.CSharp.Day2.pdb
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.csproj.AssemblyReference.cache
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.AssemblyInfoInputs.cache
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.AssemblyInfo.cs
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.csproj.CoreCompileInputs.cache
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.dll
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\refint\Capgemini.CSharp.Day2.dll
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.pdb
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\Capgemini.CSharp.Day2.genruntimeconfig.cache
+C:\capgemini\CSharp\Capgemini.CSharp.Day2\Capgemini.CSharp.Day2\obj\Debug\net5.0\ref\Capgemini.CSharp.Day2.dll
